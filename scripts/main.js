@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$("#fullpage").fullpage({anchors:["homePage","firstPage","secondPage","thirdPage"],slidesNavigation:!0,scrollingSpeed:600,responsiveWidth:375,keyboardScrolling:!0,afterResponsive:function(e){}})});
