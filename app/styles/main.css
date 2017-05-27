@@ -5,14 +5,14 @@
   text-align:center;
 }
 #section0 {
-  background-image: url("https://jessicavrooyen.github.io/images/1.jpg");
+  background-image: url("../images/1.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
 }
 #section1 {
-  background-image: url("https://jessicavrooyen.github.io/images/bg1.jpg");
+  background-image: url("../images/bg1.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20,7 +20,7 @@
 }
 
 #section2 {
-  background-image: url("https://jessicavrooyen.github.io/images/bg2.jpg");
+  background-image: url("../images/bg2.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -28,7 +28,7 @@
 }
 
 #section3 {
-  background-image: url("https://jessicavrooyen.github.io/images/bg3.jpg");
+  background-image: url("../images/bg3.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
